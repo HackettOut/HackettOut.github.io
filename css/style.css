@@ -118,13 +118,13 @@ section .inside-section .section-heading {
 	padding: 8px;
 	overflow: hidden;
 	background: ##000000;
-	background: -moz-linear-gradient(top,  #000000 0%, #b53d3d 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(100%,#b53d3d));
-	background: -webkit-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: -o-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: -ms-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: linear-gradient(to bottom,  #000000 0%,#b53d3d 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#b53d3d',GradientType=0 );
+	background: -moz-linear-gradient(top,  #000000 0%, #000000 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(100%,#000000));
+	background: -webkit-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: -o-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: -ms-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: linear-gradient(to bottom,  #000000 0%,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
   text-align: center;
 }
 section .inside-section .section-heading h1 {
@@ -972,13 +972,13 @@ background: #5b544f;
 	overflow: hidden;
 	
 	background: #000000;
-	background: -moz-linear-gradient(top,  #000000 0%, #b53d3d 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(100%,#b53d3d));
-	background: -webkit-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: -o-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: -ms-linear-gradient(top,  #000000 0%,#b53d3d 100%);
-	background: linear-gradient(to bottom,  #000000 0%,#b53d3d 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#b53d3d',GradientType=0 );
+	background: -moz-linear-gradient(top,  #000000 0%, #000000 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(100%,#000000));
+	background: -webkit-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: -o-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: -ms-linear-gradient(top,  #000000 0%,#000000 100%);
+	background: linear-gradient(to bottom,  #000000 0%,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
 }
 
 .final-section .section-heading h2{
