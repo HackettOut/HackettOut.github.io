@@ -174,7 +174,7 @@ section .inside-section .section-heading p {
   }
 }
 section .inside-section .section-content {
-  background-color: #e5e1de;
+  background-color: #999795;
   padding: 40px;
 border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 	border: 2px solid #000;
@@ -184,7 +184,7 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 
 .connect_section .account_connect_area {
   position: relative;
-  background-color: #e5e1de;
+  background-color: #999795;
   color: #363636;
   padding: 0px;
 }
@@ -278,7 +278,7 @@ color:white;
 
 #gen_section .section-content {
   text-align: center;
-background: #e5e1de;
+background: #999795;
 border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 	border: 2px solid #000;
 	box-shadow: 0 0 13px 1px #000;
@@ -719,7 +719,7 @@ footer p {
 #loading_modal {
   display: block;
   text-align: center;
-background: #e5e1de;
+background: #999795;
 	border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 	border: 2px solid #000;
 	box-shadow: 0 0 13px 1px #000;
@@ -813,7 +813,7 @@ background: #e5e1de;
 
 #gen_modal {
   text-align: center;
-  background: #e5e1de;
+  background: #999795;
 	border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 	border: 2px solid #000;
 	box-shadow: 0 0 13px 1px #000;
@@ -901,7 +901,7 @@ background: #e5e1de;
   display: block;
 }
 #gen_modal .generator_finished_area .generated_code {
-  background-color: #e5e1de;
+  background-color: #999795;
   padding: 5px;
 }
 #gen_modal .generator_finished_area .generated_code p {
