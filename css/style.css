@@ -113,7 +113,7 @@ section .inside-section {
   border-radius: 10px;
 }
 section .inside-section .section-heading {
-  border: 2px solid #9c4b4b;
+  border: 2px solid #000000;
 	border-radius: 16px; -moz-border-radius: 16px; 	-webkit-border-radius: 16px;
 	padding: 8px;
 	overflow: hidden;
@@ -965,7 +965,7 @@ background: #999795;
 
 
 .final-section .section-heading{
-  border: 2px solid #9c4b4b;
+  border: 2px solid #000000;
 	border-radius: 16px; -moz-border-radius: 16px; 	-webkit-border-radius: 16px;
 	height: 100px;
 	padding: 8px;
