@@ -185,7 +185,7 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
 .connect_section .account_connect_area {
   position: relative;
   background-color: #bccbf6;
-  color: #363636;
+  color: #ffffff;
   padding: 0px;
 }
 .connect_section .account_connect_area .connected_msg {
